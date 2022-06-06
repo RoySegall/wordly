@@ -1,4 +1,4 @@
-import { MakoScrape } from "./utils/Scrape";
+import { MakoScrape } from "./utils/Scrapers/Mako";
 
 (async () => {
   await MakoScrape();
